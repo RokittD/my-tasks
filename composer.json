@@ -1,5 +1,8 @@
 {
   "name":"rokittd\tasks",
+  "require":{
+    "yiisoft/yii2":"*"
+  },
   "type":"yii2-extension",
   "description":"Tasks management extension",
   "keywords":["rokitt", "rokitt dynamix", "tasks", "tasks management"],
