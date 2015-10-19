@@ -1,5 +1,5 @@
 {
-  "name":"rokittd\tasks",
+  "name":"rokittd/tasks",
   "require":{
     "yiisoft/yii2":"*"
   },
